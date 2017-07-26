@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="hint">There are 10 questions. Each contains 4 marks for correct answer and deduct 1 mark for wrong choice. All the best!</string>
+
+    <!-- Question No. 1 -->
+    <string name="quiz_no_1">1. Which of the following is not associated with the UNO?</string>
+    <!-- Options for que no 1 -->
+    <string name="option_1_quiz_1">ilo</string>
+    <string name="option_2_quiz_1">who</string>
+    <string name="option_3_quiz_1">asean</string>
+    <string name="option_4_quiz_1">All the above</string>
+
+    <!-- Question No. 2 -->
+    <string name="quiz_no_2">2. The International Human Rights Convention adopted by the United Nations in 1990 relates to</string>
+    <!-- Options for que no 2 -->
+    <string name="option_1_quiz_2">disabled</string>
+    <string name="option_2_quiz_2">stateless persons</string>
+    <string name="option_3_quiz_2">migrant workers</string>
+    <string name="option_4_quiz_2">children</string>
+
+    <!-- Question No. 3 -->
+    <string name="quiz_no_3">3. Who was the first Indian to be President of UN General Assembly?</string>
+    <!-- Options for que no 3 -->
+    <string name="option_1_quiz_3">Mrs. Vijay Lakshmi Pandit</string>
+    <string name="option_2_quiz_3">Ramesh Bhandari</string>
+    <string name="option_3_quiz_3">Natwar Singh</string>
+    <string name="option_4_quiz_3">Krishna Menon</string>
+
+    <!-- Question No. 4 -->
+    <string name="quiz_no_4">4. When was the South Asian Association for Regional Co-operation (SAARC) formed?</string>
+    <!-- Options for que no 4 -->
+    <string name="option_1_quiz_4">1985</string>
+    <string name="option_2_quiz_4">1982</string>
+    <string name="option_3_quiz_4">1986</string>
+    <string name="option_4_quiz_4">1987</string>
+
+    <!-- Question No. 5 -->
+    <string name="quiz_no_5">5. The number of principal organs of UNO is</string>
+    <!-- Options for que no 5 -->
+    <string name="option_1_quiz_5">3</string>
+    <string name="option_2_quiz_5">4</string>
+    <string name="option_3_quiz_5">5</string>
+    <string name="option_4_quiz_5">6</string>
+
+    <!-- Question No. 6 -->
+    <string name="quiz_no_6">6. The headquarters of U.N. is located in</string>
+    <!-- Options for que no 6 -->
+    <string name="option_1_quiz_6">Rome</string>
+    <string name="option_2_quiz_6">Geneva</string>
+    <string name="option_3_quiz_6">New York</string>
+    <string name="option_4_quiz_6">Washington D.C.</string>
+
+    <!-- Question No. 7 -->
+    <string name="quiz_no_7">7. Golf player Vijay Singh belongs to which country?</string>
+    <!-- Options for que no 7 -->
+    <string name="option_1_quiz_7">usa</string>
+    <string name="option_2_quiz_7">Fiji</string>
+    <string name="option_3_quiz_7">India</string>
+    <string name="option_4_quiz_7">uk</string>
+
+    <!-- Question No. 8 -->
+    <string name="quiz_no_8">8. First Afgan war took place in</string>
+    <!-- Options for que no 8 -->
+    <string name="option_1_quiz_8">1839</string>
+    <string name="option_2_quiz_8">1843</string>
+    <string name="option_3_quiz_8">1833</string>
+    <string name="option_4_quiz_8">1848</string>
+
+    <!-- Question No. 9 -->
+    <string name="quiz_no_9">9. Choose all of the examples or types of carbohydrates.</string>
+    <!-- Options for que no 9 -->
+    <string name="option_1_quiz_9">Galactose</string>
+    <string name="option_2_quiz_9">Fructose</string>
+    <string name="option_3_quiz_9">Sucrose</string>
+    <string name="option_4_quiz_9">Maltose</string>
+
+    <!-- Question No. 10 -->
+    <string name="quiz_no_10">10. The longest river in the world is </string>
+    <!-- Option for que no 9 -->
+    <string name="option_quiz_10">Answer</string>
+
+    <!-- Submit Button -->
+    <string name="submit">submit</string>
+
+</resources>
