@@ -85,10 +85,12 @@ public class MainActivity extends AppCompatActivity {
         EditText editTextQuiz = (EditText) findViewById(R.id.option_quiz_10);
         String answerQuiz10 = editTextQuiz.getText().toString();
 
-        if (answerQuiz10.equals("Nil")) {
+        if (answerQuiz10.equalsIgnoreCase("Nil")) {
             score++;
         }
 
         Toast.makeText(this, "Your final score is " + score, Toast.LENGTH_SHORT).show();
+
+        score = 0;
     }
 }
